@@ -17,4 +17,4 @@
 
 ### 直接上效果图
 
-![展示](https://user-gold-cdn.xitu.io/2019/5/10/16a9f8666b810e2a?w=360&h=640&f=gif&s=4622834)
+![展示](https://i.loli.net/2019/05/10/5cd4e11ae83b7.gif)
